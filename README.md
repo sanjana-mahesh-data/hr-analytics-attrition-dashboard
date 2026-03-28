@@ -28,3 +28,6 @@ This project analyzes employee data to identify key factors contributing to attr
 
 ## 🚀 Outcome
 Provided actionable insights to support HR decision-making and workforce planning.
+
+<img width="1280" height="720" alt="Screenshot (283)" src="https://github.com/user-attachments/assets/0f3d22ad-ede3-4cbe-be2a-c5e5ab7af8b8" />
+
